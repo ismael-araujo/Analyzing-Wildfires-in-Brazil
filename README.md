@@ -1,1 +1,1 @@
-# Analyzing-Wildfires-in-Brazil
+# Analyzing Wildfires in Brazil
